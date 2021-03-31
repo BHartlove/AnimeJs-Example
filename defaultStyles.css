@@ -1,0 +1,17 @@
+.box{
+    width: 100px;
+    height: 100px;
+    margin: 4px;
+    text-align: center;
+    display: inline-block;
+}
+
+.darkslate{background-color: darkslategrey}
+
+body{
+    background-color: white;
+}
+
+html body button#buttonOne{
+    margin-left: 50%;
+}
